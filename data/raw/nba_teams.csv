@@ -1,0 +1,31 @@
+name,shortname,city,state,conference,division
+Celtics,BOS,Boston,MA,East,Atlantic
+Nets,BKN,Brooklyn,NY,East,Atlantic
+Knicks,NYK,New York City,NY,East,Atlantic
+76ers,PHI,Philadelphia,PA,East,Atlantic
+Raptors,TOR,Toronto,CA-ON,East,Atlantic
+Bulls,CHI,Chicago,IL,East,Central
+Cavaliers,CLE,Cleveland,OH,East,Central
+Pistons,DET,Detroit,MI,East,Central
+Pacers,IND,Indianapolis,IN,East,Central
+Bucks,MIL,Milwaukee,WI,East,Central
+Hawks,ATL,Atlanta,GA,East,Southeast
+Hornets,CHA,Charlotte,NC,East,Southeast
+Heat,MIA,Miami,FL,East,Southeast
+Magic,ORL,Orlando,FL,East,Southeast
+Wizards,WAS,Washington D.C.,DC,East,Southeast
+Nuggets,DEN,Denver,CO,West,Northwest
+Timberwolves,MIN,Minneapolis,MN,West,Northwest
+Thunder,OKC,Oklahoma City,OK,West,Northwest
+Trail Blazers,POR,Portland,OR,West,Northwest
+Jazz,UTA,Salt Lake City,UT,West,Northwest
+Warriors,GSW,San Francisco,CA,West,Pacific
+Clippers,LAC,Los Angeles,CA,West,Pacific
+Lakers,LAL,Los Angeles,CA,West,Pacific
+Suns,PHX,Phoenix,AZ,West,Pacific
+Kings,SAC,Sacramento,CA,West,Pacific
+Mavericks,DAL,Dallas,TX,West,Southwest
+Rockets,HOU,Houston,TX,West,Southwest
+Grizzlies,MEM,Memphis,TN,West,Southwest
+Pelicans,NOP,New Orleans,LA,West,Southwest
+Spurs,SAS,San Antonio,TX,West,Southwest

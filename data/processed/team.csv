@@ -1,0 +1,31 @@
+team_id,name,shortname,city,state,conference,division
+1610612738,Celtics,BOS,Boston,MA,East,Atlantic
+1610612751,Nets,BKN,Brooklyn,NY,East,Atlantic
+1610612752,Knicks,NYK,New York City,NY,East,Atlantic
+1610612755,76ers,PHI,Philadelphia,PA,East,Atlantic
+1610612761,Raptors,TOR,Toronto,CA-ON,East,Atlantic
+1610612741,Bulls,CHI,Chicago,IL,East,Central
+1610612739,Cavaliers,CLE,Cleveland,OH,East,Central
+1610612765,Pistons,DET,Detroit,MI,East,Central
+1610612754,Pacers,IND,Indianapolis,IN,East,Central
+1610612749,Bucks,MIL,Milwaukee,WI,East,Central
+1610612737,Hawks,ATL,Atlanta,GA,East,Southeast
+1610612766,Hornets,CHA,Charlotte,NC,East,Southeast
+1610612748,Heat,MIA,Miami,FL,East,Southeast
+1610612753,Magic,ORL,Orlando,FL,East,Southeast
+1610612764,Wizards,WAS,Washington D.C.,DC,East,Southeast
+1610612743,Nuggets,DEN,Denver,CO,West,Northwest
+1610612750,Timberwolves,MIN,Minneapolis,MN,West,Northwest
+1610612760,Thunder,OKC,Oklahoma City,OK,West,Northwest
+1610612757,Trail Blazers,POR,Portland,OR,West,Northwest
+1610612762,Jazz,UTA,Salt Lake City,UT,West,Northwest
+1610612744,Warriors,GSW,San Francisco,CA,West,Pacific
+1610612746,Clippers,LAC,Los Angeles,CA,West,Pacific
+1610612747,Lakers,LAL,Los Angeles,CA,West,Pacific
+1610612756,Suns,PHX,Phoenix,AZ,West,Pacific
+1610612758,Kings,SAC,Sacramento,CA,West,Pacific
+1610612742,Mavericks,DAL,Dallas,TX,West,Southwest
+1610612745,Rockets,HOU,Houston,TX,West,Southwest
+1610612763,Grizzlies,MEM,Memphis,TN,West,Southwest
+1610612740,Pelicans,NOP,New Orleans,LA,West,Southwest
+1610612759,Spurs,SAS,San Antonio,TX,West,Southwest
