@@ -10,11 +10,11 @@
     ·
     <a href="https://github.com/rc-9/3K_Fantasy_Basketball/issues">Request Feature</a>
     <br /><br />
-    <a href="https://rprogrammingbooks.com/wp-content/uploads/2025/09/From-Data-to-Victory-Advanced-Basketball-Analytics-with-R.png">
+    <!-- <a href="https://rprogrammingbooks.com/wp-content/uploads/2025/09/From-Data-to-Victory-Advanced-Basketball-Analytics-with-R.png">
         <img src="https://rprogrammingbooks.com/wp-content/uploads/2025/09/From-Data-to-Victory-Advanced-Basketball-Analytics-with-R.png" 
              alt="From Data to Victory Book Cover" 
              width="400"/>
-    </a>
+    </a> -->
 </p>
 
 
