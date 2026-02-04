@@ -3,15 +3,18 @@
 
 <h1 align="center">NBA 3K</h1>
 <h3 align="center">Fantasy Basketball Virtual Assistant</h3>
-  <p align="center">
+<p align="center">
     Troy J., Adi B., Romith C.
-    <br />
-    <br />
+    <br /><br />
     <a href="https://github.com/rc-9/3K_Fantasy_Basketball/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rc-9/3K_Fantasy_Basketball/issues">Request Feature</a><br />
-    <br><a href="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJn3M_b31v-g2wAm3b5mrWon81HSM1dyP3w&usqp=CAU](https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Ffba.png)"><img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJn3M_b31v-g2wAm3b5mrWon81HSM1dyP3w&usqp=CAU](https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Ffba.png)" alt="z3" border="" /></a><br />
+    <a href="https://github.com/rc-9/3K_Fantasy_Basketball/issues">Request Feature</a>
+    <br /><br />
+    <a href="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Ffba.png">
+        <img src="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Ffba.png" alt="ESPN NBA Logo" />
+    </a>
 </p>
+
 </div>
 
 
