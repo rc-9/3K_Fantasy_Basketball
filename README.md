@@ -1,7 +1,8 @@
 [![Issues][issues-shield]][issues-url]
 
 
-<h1 align="center">3K: Fantasy Basketball Virtual Assistant</h1>
+<h1 align="center">NBA 3K</h1>
+<h3 align="center">Fantasy Basketball Virtual Assistant</h3>
   <p align="center">
     Troy J., Adi B., Romith C.
     <br />
