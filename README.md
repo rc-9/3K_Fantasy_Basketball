@@ -10,8 +10,7 @@
     <a href="https://github.com/rc-9/3K_Fantasy_Basketball/issues">Report Bug</a>
     ·
     <a href="https://github.com/rc-9/3K_Fantasy_Basketball/issues">Request Feature</a><br />
-    <br><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJn3M_b31v-g2wAm3b5mrWon81HSM1dyP3w&usqp=CAU"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJn3M_b31v-g2wAm3b5mrWon81HSM1dyP3w&usqp=CAU" alt="z3" border="" /></a><br />
-    *Image Source: saurabhr*
+    <br><a href="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJn3M_b31v-g2wAm3b5mrWon81HSM1dyP3w&usqp=CAU](https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Ffba.png)"><img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJn3M_b31v-g2wAm3b5mrWon81HSM1dyP3w&usqp=CAU](https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Ffba.png)" alt="z3" border="" /></a><br />
 </p>
 </div>
 
