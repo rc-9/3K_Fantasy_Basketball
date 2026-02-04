@@ -10,7 +10,7 @@
     ·
     <a href="https://github.com/rc-9/3K_Fantasy_Basketball/issues">Request Feature</a><br />
     <br><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJn3M_b31v-g2wAm3b5mrWon81HSM1dyP3w&usqp=CAU"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJn3M_b31v-g2wAm3b5mrWon81HSM1dyP3w&usqp=CAU" alt="z3" border="" /></a><br />
-    Image Source: saurabhr.com
+    *Image Source: saurabhr*
 </p>
 </div>
 
