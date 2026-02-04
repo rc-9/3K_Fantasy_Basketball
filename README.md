@@ -1,6 +1,12 @@
 [![Issues][issues-shield]][issues-url]
 
 
+<p align="center">
+    <img src="https://rprogrammingbooks.com/wp-content/uploads/2025/09/From-Data-to-Victory-Advanced-Basketball-Analytics-with-R.png" 
+         alt="From Data to Victory Book Cover" 
+         width="400"/>
+</p>
+
 <h1 align="center">NBA 3K</h1>
 <h3 align="center">Fantasy Basketball Virtual Assistant</h3>
 <p align="center">
@@ -9,11 +15,8 @@
     <a href="https://github.com/rc-9/3K_Fantasy_Basketball/issues">Report Bug</a>
     ·
     <a href="https://github.com/rc-9/3K_Fantasy_Basketball/issues">Request Feature</a>
-    <br /><br />
-    <a href="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Ffba.png">
-        <img src="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Ffba.png" alt="ESPN NBA Logo" />
-    </a>
 </p>
+
 
 </div>
 
