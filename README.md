@@ -72,7 +72,7 @@ Builds smarter late-round draft strategies by stress-testing roster construction
 
 ![sim_strat](images/sim_strat.png)
 
-Runs large-scale fantasy draft simulations based on the defined player clusters. Early round selections are held to just the high-volume player cluster, while late-round picks are tilted toward different builds (e.g., size-driven production, guard/wing skills). Each simulated roster is then matched head-to-head across categories using historical performance to determine which draft strategy wins more often.
+This tool runs large-scale fantasy draft simulations based on the defined player clusters. Early round selections are held to just the high-volume player cluster, while late-round picks are tilted toward different builds (e.g., size-driven production, guard/wing skills). Each simulated roster is then matched head-to-head across categories using historical performance to determine which draft strategy wins more often.
 
 The result is an evidence-based solution for one of fantasy basketball’s hardest challenges: converting late round picks into intentional categorical advantages, rather than an accidental category imbalance.
 
