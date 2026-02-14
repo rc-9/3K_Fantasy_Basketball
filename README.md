@@ -43,7 +43,7 @@ Identifies the most impactful stretches of a player’s season using a divide-an
 
 For a chosen player and statistical category, the tool establishes a seasonal baseline, converts each performance into a deviation from that baseline, then searches for a contiguous run of games that generated the greatest positive lift.
 
-Fantasy outcomes are driven by momentum, role shifts, and short-term surges far more than long-run averages. Managers win by recognizing surges early, not by trusting season summaries. By isolating these windows, the module highlights when production was both elevated and sustained. This supports sharper waiver timing, smarter buy-low/sell-high trade decisions, and more confident lineup locks.
+Fantasy outcomes are driven by momentum, role shifts, and short-term surges far more than long-run averages. Managers win by recognizing these surges early, not by trusting season summaries. By isolating these windows, this tool highlights when production is both elevated and sustained. This supports sharper waiver timing, smarter buy-low/sell-high trade decisions, and more confident lineup locks.
 
 ---
 ---
@@ -72,7 +72,7 @@ Builds smarter late-round draft strategies by stress-testing roster construction
 
 ![sim_strat](images/sim_strat.png)
 
-With archetypes defined, this tool runs large-scale fantasy draft simulations. Early round selections are held to just the high-volume player cluster, while late-round picks are tilted toward different builds (e.g., size-driven production, guard/wing skills). Each simulated roster is then matched head-to-head across categories using historical performance to determine which draft strategy wins more often.
+Runs large-scale fantasy draft simulations based on the defined player clusters. Early round selections are held to just the high-volume player cluster, while late-round picks are tilted toward different builds (e.g., size-driven production, guard/wing skills). Each simulated roster is then matched head-to-head across categories using historical performance to determine which draft strategy wins more often.
 
 The result is an evidence-based solution for one of fantasy basketball’s hardest challenges: converting late round picks into intentional categorical advantages, rather than an accidental category imbalance.
 
