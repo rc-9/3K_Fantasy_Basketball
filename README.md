@@ -32,7 +32,7 @@
 
 ## Project Overview
 
-The purpose of this project is to build an end-to-end, data-driven fantasy basketball virtual assistant that automates decisions from draft day through daily lineup management, waiver wire pickups, and trade targets. This is achieved through a focused set of tools, each providing fantasy managers a distinct competitive edge, with the long-term goal of consolidating them into a single, cohesive application.
+The purpose of this project is to build an end-to-end fantasy basketball virtual assistant that automates decisions from draft day through daily lineup management, waiver wire pickups, and trade targets. This is achieved through a focused set of tools, each providing fantasy managers a distinct competitive edge, with the long-term goal of consolidating them into a single, cohesive application.
 
 ---
 ---
