@@ -1,7 +1,10 @@
 [![Issues][issues-shield]][issues-url]
 
 <h1 align="center">NBA 3K</h1>
+
 <h3 align="center">Fantasy Basketball Virtual Assistant</h3>
+
+
 
 <p align="center">
     Troy J., Adi B., Romith C.
@@ -15,12 +18,15 @@
              alt="From Data to Victory Book Cover" 
              width="400"/>
     </a> -->
+
 </p>
 
+<p align='center'>
+  <img src='images/header.jpeg' alt='header' width='200'/>
+</p>
 
 </div>
 
-![header](images/header.jpeg)
 
 
 
