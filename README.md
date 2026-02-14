@@ -42,7 +42,7 @@ Identifies the most impactful stretches of a player’s season using a divide-an
 
 For a chosen player and statistical category, the tool establishes a seasonal baseline, converts each performance into a deviation from that baseline, then searches for a contiguous run of games that generated the greatest positive lift.
 
-Fantasy outcomes are driven by momentum, role shifts, and short-term surges far more than long-run averages. Managers win by recognizing surges early, not by trusting season summaries. By isolating these windows, the module highlights when production was both elevated and sustained. This supports sharper waiver timing, stronger buy-low/sell-high trade decisions, and more confident lineup locks.
+Fantasy outcomes are driven by momentum, role shifts, and short-term surges far more than long-run averages. Managers win by recognizing surges early, not by trusting season summaries. By isolating these windows, the module highlights when production was both elevated and sustained. This supports sharper waiver timing, smarter buy-low/sell-high trade decisions, and more confident lineup locks.
 
 ---
 
