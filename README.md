@@ -34,6 +34,8 @@
 
 The purpose of this project is to build an end-to-end, data-driven fantasy basketball virtual assistant that automates decisions from draft day to daily lineup selections, waiver wire pickups, and trade targets. This vision is executed through a set of focused tools, each designed to deliver a distinct competitive edge, with the long-term goal of integrating them into a unified, single-point application.
 
+---
+
 ### Hot Streak Finder:
 
 Identifies the most impactful stretches of a player’s season using a divide-and-conquer maximum subarray strategy. 
@@ -41,6 +43,8 @@ Identifies the most impactful stretches of a player’s season using a divide-an
 For a chosen player and statistical category, the tool establishes a seasonal baseline, converts each performance into a deviation from that baseline, then searches for a contiguous run of games that generated the greatest positive lift.
 
 Fantasy outcomes are driven by momentum, role shifts, and short-term surges far more than long-run averages. Managers win by recognizing surges early, not by trusting season summaries. By isolating these windows, the module highlights when production was both elevated and sustained. This supports sharper waiver timing, stronger buy-low/sell-high trade decisions, and more confident lineup locks.
+
+---
 
 ### 9-Cat Cluster Analysis:
 
@@ -56,6 +60,8 @@ The model identifies natural similarities in statistical production, organizing 
 ![cats_comp](images/cats_comp.png)
 
 Instead of evaluating hundreds of individual stat lines, fantasy managers can approach roster construction by relying on stable player types with predictable strengths and weaknesses. These archetypes form the analytical backbone for downstream decision engines, including a draft simulator.
+
+---
 
 ### Draft Strategy Simulator:
 
