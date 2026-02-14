@@ -20,7 +20,7 @@
 
 </div>
 
-![header](images/header.png)
+![header](images/header.jpeg)
 
 
 
