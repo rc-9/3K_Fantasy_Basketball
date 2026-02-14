@@ -48,7 +48,7 @@ Fantasy outcomes are driven by momentum, role shifts, and short-term surges far 
 ---
 ---
 
-### 9-Cat Cluster Analysis:
+### 9-Cat Cluster Analysis
 
 Creates a structural map of the fantasy ecosystem by grouping players based on their 9-cat fantasy production, rather than traditional position labels. Using scaled statistical inputs, k-means clustering (k = 3, selected via elbow analysis) transforms raw box score data into practical fantasy archetypes. 
 
@@ -66,7 +66,7 @@ Instead of evaluating hundreds of individual stat lines, fantasy managers can ap
 ---
 ---
 
-### Draft Strategy Simulator:
+### Draft Strategy Simulator
 
 Builds smarter late-round draft strategies by stress-testing roster constructions against each other. 
 
